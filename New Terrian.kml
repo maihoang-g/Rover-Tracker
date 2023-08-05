@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>New Terrian</name>
+	<gx:CascadingStyle kml:id="__managed_style_1F20E44E86255CC6CF09">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_092847579A255CC61D57">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_052BA730EE255CC6CF0A">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0971C3556C255CC6CF09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F20E44E86255CC6CF09</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_052BA730EE255CC6CF0A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_12F59DA082255CC61D56">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_032DE058E3255CC61D56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12F59DA082255CC61D56</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_092847579A255CC61D57</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="06A4219449255CC5EAF1">
+		<name>Delta Charging Station</name>
+		<description><![CDATA[<div>Charging Station 1<br></div>]]></description>
+		<LookAt>
+			<longitude>130.3364040991106</longitude>
+			<latitude>-24.14806932370088</latitude>
+			<altitude>433.9050973073178</altitude>
+			<heading>356.7137046505504</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00009110006985</gx:fovy>
+			<range>290065.2425504476</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Point>
+			<coordinates>129.6971952112951,-23.95855279671142,314.0635316045867</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C8ED7E02A255CC654C2">
+		<name>ROVA1</name>
+		<description><![CDATA[<div>ROVA's current location<br></div>]]></description>
+		<LookAt>
+			<longitude>130.3364040991106</longitude>
+			<latitude>-24.14806932370088</latitude>
+			<altitude>433.9050973073178</altitude>
+			<heading>356.7137046505504</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00009110006985</gx:fovy>
+			<range>290065.2425504476</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Point>
+			<coordinates>129.7238415054311,-24.40399017190601,529.2361039007016</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04EF312489255CC6CF09">
+		<name>Charlie </name>
+		<LookAt>
+			<longitude>130.3364040991106</longitude>
+			<latitude>-24.14806932370088</latitude>
+			<altitude>433.9050973073178</altitude>
+			<heading>356.7137046505504</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00009110006985</gx:fovy>
+			<range>290065.2425504476</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0971C3556C255CC6CF09</styleUrl>
+		<Point>
+			<coordinates>130.270513579433,-24.46019751673879,481.3213860769474</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="049A7616C4255CC80AAE">
+		<name>Delta&apos;s Charging Station</name>
+		<description><![CDATA[<div>Charging Station for Rover on low battery<br></div>]]></description>
+		<LookAt>
+			<longitude>129.8948951629342</longitude>
+			<latitude>-24.05857120719856</latitude>
+			<altitude>510.6750660669982</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>107675.1550146751</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						129.6163973102376,-23.9219761980332,558.2550019805991 129.7032162633632,-23.99353818308899,491.4536598222305 129.7605886775963,-23.9130913146462,496.8049500785372 129.6163973102376,-23.9219761980332,558.2550019805991 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0BCD93B5AD255CC8A8CA">
+		<name>Charlie&apos;s Wifi Station</name>
+		<description><![CDATA[<div>Station to allocate space<br></div>]]></description>
+		<LookAt>
+			<longitude>130.3363570215203</longitude>
+			<latitude>-24.14805812618251</latitude>
+			<altitude>433.8756127484664</altitude>
+			<heading>356.7138512543059</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00076029614956</gx:fovy>
+			<range>290065.2662843093</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						130.0856533131568,-24.39297353375752,321.8241430215159 130.1134636125398,-24.55781603463302,376.5354883834943 130.4526421579601,-24.50323114680954,343.7143196693473 130.4166010930571,-24.33648762210142,422.6617616556658 130.0856533131568,-24.39297353375752,321.8241430215159 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="02F0134286255E2D27D2">
+		<name>ROVA1 Next</name>
+		<description><![CDATA[<div>Next Location<br></div>]]></description>
+		<LookAt>
+			<longitude>130.3370444702823</longitude>
+			<latitude>-24.06851598943254</latitude>
+			<altitude>457.6009570151084</altitude>
+			<heading>356.7150003771175</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.12219487613003</gx:fovy>
+			<range>290119.0234811605</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Point>
+			<coordinates>129.9868834026146,-23.85602442968042,671.5420655042503</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D03A2EDC255E2D8F3D">
+		<name>ROVA1 Next-Next</name>
+		<description><![CDATA[<div>Next-&gt;Next Location<br></div>]]></description>
+		<LookAt>
+			<longitude>130.3370445177156</longitude>
+			<latitude>-24.06851594450703</latitude>
+			<altitude>457.5620033798838</altitude>
+			<heading>356.715000371388</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.12219487613003</gx:fovy>
+			<range>290119.0709488839</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Point>
+			<coordinates>131.1550681662271,-23.98980314046104,598.6865611763128</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DC77572D6255E2ECAD2">
+		<name>Random Shape</name>
+		<description><![CDATA[<div>Find the middle for easier location<br></div>]]></description>
+		<LookAt>
+			<longitude>130.4238752619253</longitude>
+			<latitude>-24.13539393379472</latitude>
+			<altitude>599.5361782917919</altitude>
+			<heading>359.9824529113114</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>192098.3050130121</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						130.4413955250107,-23.72496477432374,595.2900366851253 130.3825447717851,-23.77892288202814,589.0768520261717 130.3904118321424,-23.85803433260918,604.296547308825 130.4532414347979,-23.89216681396704,617.524042658574 130.5396117749435,-23.87952330086376,623.3894605458518 130.5689503010156,-23.80589383427004,670.9367417386142 130.5688445221683,-23.73770026597254,726.6011859947265 130.5257276445776,-23.70880169330925,641.9032647770966 130.4413955250107,-23.72496477432374,595.2900366851253 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="006F9F7192255E2F6B98">
+		<name>Random Charging Station</name>
+		<description><![CDATA[<div>Charging Station2<br></div>]]></description>
+		<LookAt>
+			<longitude>130.4238752619253</longitude>
+			<latitude>-24.13539393379472</latitude>
+			<altitude>599.5361782917919</altitude>
+			<heading>359.9824529113114</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>192098.3050130121</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_032DE058E3255CC61D56</styleUrl>
+		<Point>
+			<coordinates>130.4787111443964,-23.79147917915342,590.680421183857</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
